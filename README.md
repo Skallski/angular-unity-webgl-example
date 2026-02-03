@@ -1,2 +1,2 @@
-# AngularUnityWebGL
-Embedding Unity WebGL in Angular app made easy
+# Ngx Unity WebGL Player
+Embedding Unity WebGL player in Angular made easy
