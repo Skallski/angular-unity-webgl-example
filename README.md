@@ -1,2 +1,2 @@
 # AngularUnityWebGL
-Unity WebGL integration in an Angular application for dummies
+Embedding Unity WebGL in Angular app made easy
